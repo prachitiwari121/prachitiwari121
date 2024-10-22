@@ -2,6 +2,6 @@
 
 - 🌱 I’m currently learning Data Science.
 - 💬 Ask me anything related to OOP.
-- 📫 How to reach me: prachi.tiwari.main@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/prachitiwari20/
 
 
